@@ -6,7 +6,7 @@
 #include "types.h"
 #include "interruptions/interruptions.h"
 
-#define FREQUENCE_INTERRUPTION 20
+#define FREQUENCE_INTERRUPTION 60
 
 
 

@@ -181,7 +181,6 @@ i64 efi_main(void *image_handle, EFI_SYSTEM_TABLE *table) {
 
     charger_kernel(table, image_handle);
     
-    
     //afficher("Kernel charge en : %x\n", ADRESSE_KERNEL);
 
 
